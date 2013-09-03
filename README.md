@@ -45,6 +45,11 @@ A program that monitors file changes and reports them either in real-time or man
  +	In this state, the program is minimised to the system-tray (if supported by the OS).
  +	It also pops-up notifications near the lower-right corner of the screen indicating the kind of change (nearly instantly).
 
+### Developers' notes:
+
+ + This repository is an Eclipse project, so just import it and run.
+
+
 <br>
 <br>
 **Copyright &copy; 2013 by Ahmed Osama el-Sawalhy**
