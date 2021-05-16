@@ -1,6 +1,8 @@
 What Changed v2.03.0050
 =======================
 
+(No longer maintained!)
+
 A program that monitors file changes and reports them either in real-time or manually.
 
 ### Features:
